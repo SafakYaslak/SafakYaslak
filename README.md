@@ -4,7 +4,7 @@
 
 ###  About Me
 
-I am a senior student in the Electrical and Electronics Engineering Department at Izmir Katip Çelebi University. I am a developer passionate about autonomous systems, robotic manipulation, and AI-based image processing. I focus on transforming the theoretical and practical experience I gained from TÜBİTAK and TEKNOFEST projects into professional solutions.
+I am a student in the Electrical and Electronics Engineering Department at Izmir Katip Çelebi University. I am a developer passionate about autonomous systems, robotic manipulation, and AI-based image processing. 
 
 *  I'm currently working on **Autonomous Underwater Systems and Manipulators**.
 *  I'm deepening my competencies in **Deep Learning** and **Embedded Systems**.
