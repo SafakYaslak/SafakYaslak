@@ -44,45 +44,6 @@ I am a student in the Electrical and Electronics Engineering Department at Izmir
 
 </div>
 
----
-
-### 🏆 Featured Projects
-
-**🔬 TÜBİTAK 2209-A: CNN-Aided Image Processing for Unmanned Underwater Vehicle**
-* **Role:** Researcher
-* **Details:** Unmanned A multi-input **CNN architecture** was developed for the underwater vehicle to perform optimal valve manipulation. [cite_start]The project was awarded support by TÜBİTAK.
-
-**🤖 3D Pick-and-Place with the Staubli TX90**
-* **Technologies:** ROS, PnP, Homography, CNN
-* **Details:** Using homography and CNN-based object detection methods, the 3D position and rotation of the objects were calculated, and autonomous pick-and-drop operations were performed with the robot arm.
-
-**🌊 Force Sensor-Supported Underwater Teleoperation Interface**
-* **Technologies:** ROS, Force Feedback, RexROV2
-* **Details:** A real-time control interface with force feedback was designed for the 6-axis Staubli robot arm integrated into the RexROV2 underwater vehicle.
-
-**🧠 PC12 Cell Detection System**
-* **Technologies:** Deep Learning, U-Net
-* **Details:** A deep learning model based on **U-Net** was developed and trained to perform segmentation on PC12 cell images.
-
-**🦾 UR-5 Robotic Arm and Caracara Underwater Vehicle Design**
-* **Technologies:** ROS, Gazebo, MoveIt
-* **Details:** The integration and simulation of the UR5 robotic arm into the underwater vehicle was achieved using ROS-based motion planning (MoveIt).
-
----
-
-### 💼 Experiences
-
-* **SADELABS** | *Embedded Systems Intern* (2023)
-* Transfer of RFID and sensor data via **MQTT** in STM32-based systems and integration of sensor drivers with C/C++.
-
-* **Institute of Project Support and Solidarity** (2024-2025)
-* Development of AI-supported image processing and classification algorithms for autonomous robots.
-
-* **IKC TEKNO-Susona ROV** | *Software Team Member* (2022-2023)
-* Design of an autonomous guidance system using ultrasonic sensors and camera data for the TEKNOFEST Unmanned Underwater Systems competition.
-
----
-
 <div align="center"> 
 <a href="www.linkedin.com/in/şafak-yaşlak-98a2b5217"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
